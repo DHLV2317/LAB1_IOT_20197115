@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">LAB1</string>
+    <!-- Nombre de la app -->
+    <string name="app_name">APPSIoT</string>
+
+    <!-- Menú AppBar -->
+    <string name="menu_profile">Perfil</string>
+    <string name="menu_stats">Estadísticas</string>
+
+    <!-- Placeholders -->
+    <string name="placeholder_name">&lt;Nombre&gt;</string>
+
+    <!-- Botones -->
+    <string name="btn_prev">Anterior</string>
+    <string name="btn_next">Siguiente</string>
+    <string name="btn_play_again">Volver a jugar</string>
+
+    <!-- Etiquetas -->
+    <string name="label_total_score">Puntaje total</string>
+
+    <!-- Accesibilidad -->
+    <string name="content_desc_hint">Botón de pista</string>
+
+    <string name="next">Siguiente</string>
+    <string name="btn_finish">Finalizar</string>
 </resources>
